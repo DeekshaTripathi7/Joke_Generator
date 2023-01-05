@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FFD56F;
+}
+
+p{
+    color: antiquewhite;
+}
+
+h2 {
+    margin-left:25%;
+    margin-top: 10%;
+}
+.card{
+    align-items: center;
+    margin-top: 1vmax;
+    width: 50vmax;
+    height: 45vmax;
+    margin-left: 25%;
+    background-color: #1A120B;
+}
+#image{
+   
+    width: 18vmin;
+    height: 18vmin;
+}
+
